@@ -12,3 +12,8 @@ dependencies:
     - matplotlib
     - clustergrammer2
     - scikit-learn
+    - bqplot
+    - ipympl
+    - ipyvolume
+    - scipy
+    - voila
